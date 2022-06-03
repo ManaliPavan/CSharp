@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>AppleBatch.delegates.class2</StartupObject>
+    <StartupObject>AppleBatch.JUNE.BTest</StartupObject>
   </PropertyGroup>
 
 </Project>
